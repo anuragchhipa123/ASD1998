@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 14 09:07:48 2019
+
+@author: DELL
+"""
+
+json_faculty="""
+{
+    "Name":{
+        "First Name":"Anurag",
+        "Last Name":"Chhipa"
+        },
+    "Photo":"ASD",
+    "Department":"Computer Science",
+    "Research Areas":["qwe","asd","zxc"],
+    "Contect":{
+        "Phone Number":123456789,
+        "Email id":"anuragchhipa@gmail.com
+        }
+        
+        
+        
+    "Name":{
+        "First Name":"Jai",
+        "Last Name":"singh"
+        },
+    "Photo":"ASD",
+    "Department":"Computer Science",
+    "Research Areas":["qwe","asd","zxc"],
+    "Contect":{
+        "Phone Number":123456789,
+        "Email id":"jisingh@gmail.com"
+        }
+}"""

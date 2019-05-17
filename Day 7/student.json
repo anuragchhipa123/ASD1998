@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 14 10:57:44 2019
+
+@author: DELL
+"""
+
+
+json_student="""
+{
+    "Name":{
+        "First Name":"Anurag",
+        "Last Name":"Chhipa"
+        },
+    "Photo":"ASD",
+    "Department":"Computer Science",
+    "Roll no":2345677,
+    "Contect":{
+        "Phone Number":123456789,
+        "Email id":"anuragchhipa@gmail.com"
+        }
+}"""
